@@ -1,1 +1,1 @@
-testing script for dlingo
+lingo testing script for dlingo
